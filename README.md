@@ -16,3 +16,7 @@ The total cost of a prediction model the sum of Cost_1 multiplied by the number 
 ## Problem Statement
 
 **Predict APS failure accurately and minimizes the cost of failures**
+
+I have written detailed blog about this case study.
+
+**Blog Link : [APS Failure at Scania Trucks Data Set: Predicting if a Truck needs Servicing](https://medium.com/analytics-vidhya/aps-failure-at-scania-trucks-data-set-1eb97b12812)**
